@@ -1,0 +1,36 @@
+C:\Users\Adi\Desktop\Cursuri\Securitatea Informatiei\proiect_si\proiect_si\bin\Debug\proiect_si.exe.config
+C:\Users\Adi\Desktop\Cursuri\Securitatea Informatiei\proiect_si\proiect_si\bin\Debug\proiect_si.exe
+C:\Users\Adi\Desktop\Cursuri\Securitatea Informatiei\proiect_si\proiect_si\bin\Debug\proiect_si.pdb
+C:\Users\Adi\Desktop\Cursuri\Securitatea Informatiei\proiect_si\proiect_si\obj\Debug\proiect_si.csprojResolveAssemblyReference.cache
+C:\Users\Adi\Desktop\Cursuri\Securitatea Informatiei\proiect_si\proiect_si\obj\Debug\proiect_si.Form1.resources
+C:\Users\Adi\Desktop\Cursuri\Securitatea Informatiei\proiect_si\proiect_si\obj\Debug\proiect_si.Properties.Resources.resources
+C:\Users\Adi\Desktop\Cursuri\Securitatea Informatiei\proiect_si\proiect_si\obj\Debug\proiect_si.csproj.GenerateResource.Cache
+C:\Users\Adi\Desktop\Cursuri\Securitatea Informatiei\proiect_si\proiect_si\obj\Debug\proiect_si.exe
+C:\Users\Adi\Desktop\Cursuri\Securitatea Informatiei\proiect_si\proiect_si\obj\Debug\proiect_si.pdb
+C:\Users\Adi\Desktop\proiect_si\proiect_si\bin\Debug\proiect_si.exe.config
+C:\Users\Adi\Desktop\proiect_si\proiect_si\obj\Debug\proiect_si.exe
+C:\Users\Adi\Desktop\proiect_si\proiect_si\obj\Debug\proiect_si.pdb
+C:\Users\Adi\Desktop\proiect_si\proiect_si\bin\Debug\proiect_si.exe
+C:\Users\Adi\Desktop\proiect_si\proiect_si\bin\Debug\proiect_si.pdb
+C:\Users\Adi\Desktop\proiect_si\proiect_si\obj\Debug\proiect_si.csprojResolveAssemblyReference.cache
+C:\Users\Adi\Desktop\proiect_si\proiect_si\obj\Debug\proiect_si.Form1.resources
+C:\Users\Adi\Desktop\proiect_si\proiect_si\obj\Debug\proiect_si.Properties.Resources.resources
+C:\Users\Adi\Desktop\proiect_si\proiect_si\obj\Debug\proiect_si.csproj.GenerateResource.Cache
+C:\Users\Adi\Desktop\Cursuri\PROIECT_SI_FINAL\proiect_si\proiect_si\bin\Debug\proiect_si.exe.config
+C:\Users\Adi\Desktop\Cursuri\PROIECT_SI_FINAL\proiect_si\proiect_si\obj\Debug\proiect_si.exe
+C:\Users\Adi\Desktop\Cursuri\PROIECT_SI_FINAL\proiect_si\proiect_si\obj\Debug\proiect_si.pdb
+C:\Users\Adi\Desktop\Cursuri\PROIECT_SI_FINAL\proiect_si\proiect_si\bin\Debug\proiect_si.exe
+C:\Users\Adi\Desktop\Cursuri\PROIECT_SI_FINAL\proiect_si\proiect_si\bin\Debug\proiect_si.pdb
+C:\Users\Adi\Desktop\Cursuri\PROIECT_SI_FINAL\proiect_si\proiect_si\obj\Debug\proiect_si.csprojResolveAssemblyReference.cache
+C:\Users\Adi\Desktop\Cursuri\PROIECT_SI_FINAL\proiect_si\proiect_si\obj\Debug\proiect_si.Form1.resources
+C:\Users\Adi\Desktop\Cursuri\PROIECT_SI_FINAL\proiect_si\proiect_si\obj\Debug\proiect_si.Properties.Resources.resources
+C:\Users\Adi\Desktop\Cursuri\PROIECT_SI_FINAL\proiect_si\proiect_si\obj\Debug\proiect_si.csproj.GenerateResource.Cache
+D:\Backup\Cursuri\Anul 3\Securitatea Informatiei\proiect_si_v3\proiect_si\proiect_si\bin\Debug\proiect_si.exe.config
+D:\Backup\Cursuri\Anul 3\Securitatea Informatiei\proiect_si_v3\proiect_si\proiect_si\obj\Debug\proiect_si.exe
+D:\Backup\Cursuri\Anul 3\Securitatea Informatiei\proiect_si_v3\proiect_si\proiect_si\bin\Debug\proiect_si.exe
+D:\Backup\Cursuri\Anul 3\Securitatea Informatiei\proiect_si_v3\proiect_si\proiect_si\bin\Debug\proiect_si.pdb
+D:\Backup\Cursuri\Anul 3\Securitatea Informatiei\proiect_si_v3\proiect_si\proiect_si\obj\Debug\proiect_si.csprojResolveAssemblyReference.cache
+D:\Backup\Cursuri\Anul 3\Securitatea Informatiei\proiect_si_v3\proiect_si\proiect_si\obj\Debug\proiect_si.Form1.resources
+D:\Backup\Cursuri\Anul 3\Securitatea Informatiei\proiect_si_v3\proiect_si\proiect_si\obj\Debug\proiect_si.Properties.Resources.resources
+D:\Backup\Cursuri\Anul 3\Securitatea Informatiei\proiect_si_v3\proiect_si\proiect_si\obj\Debug\proiect_si.csproj.GenerateResource.Cache
+D:\Backup\Cursuri\Anul 3\Securitatea Informatiei\proiect_si_v3\proiect_si\proiect_si\obj\Debug\proiect_si.pdb
